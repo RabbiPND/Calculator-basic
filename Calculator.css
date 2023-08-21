@@ -12,6 +12,14 @@ body {
     text-align: center;
 }
 
+#main {
+    margin: 0px auto;
+    width: 250px;
+    height: 50px;
+    background-color: white;
+    padding: 10px; 
+}
+
 button {
     width: 50px;
     height: 50px;
@@ -19,11 +27,6 @@ button {
     margin: 5px;
 }
 
-input {
-    width: 200px;
-    height: 50px;
-    
-}
 
 button:hover {
     background-color: antiquewhite;
